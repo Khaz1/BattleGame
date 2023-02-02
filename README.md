@@ -1,2 +1,2 @@
-# DevelopmentIssues
-Development issues and learning process
+# BattleGame
+Battle game and learning process
